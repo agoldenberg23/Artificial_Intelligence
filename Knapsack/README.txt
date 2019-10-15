@@ -32,3 +32,6 @@ weights if possible but will not be sorted correctly if this happens. The
 values and weights can be any double variable. The ... represents the 
 fact that any number of objects can be added. An example of the text 
 file is included with this program.
+
+Both programs output to console the item names in the knapsack with a 
+space afterwards.
