@@ -16,7 +16,7 @@ java Knapsack_HC
 
 The input is given by a text file in the same relative path as the
 java file. The text file must be named "Knapsack" (no quotations).
-The file must be formatted in the following way:
+The file must be formatted in the following way (Example is given):
 Target_Value Target_Weight
 Object_Name Object_Value Object_Weight
 Object_2_Name Object_2_Value Object_2_Weight
